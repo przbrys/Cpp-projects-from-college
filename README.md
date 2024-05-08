@@ -1,9 +1,7 @@
-# OldCpp
-Tree, BinarySearchTreeOnTemplates, WatchingListOrganiser
+# C++ projects from anothers repository
 
-WatchingListOrganiser is my first object-oriented program.
+WatchingListOrganiser- console application that allows the user reading and writting information from/to .txt files, considering the input type, genre, and the state in which the 'entities' are found.
 
-BinarySearchTreeOnTemplates as name suggests, it is my implementation of bst based on templates.
+BinarySearchTreeOnTemplates- an implementation of Binary Search Tree (BST) using templates (generics) along with fundamental algorithms.
 
-Folder Tree contains project which creates genealogical tree. View is just illustrative.
-
+Tree- application that allows the user reading and writting information from/to .txt files, considering the input type, genre, and the state in which the 'entities' are found. View is just illustrative.
