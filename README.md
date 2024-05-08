@@ -1,4 +1,4 @@
-# C++ projects from anothers repository
+# C++ projects from another repositories
 
 WatchingListOrganiser- console application that allows the user reading and writting information from/to .txt files, considering the input type, genre, and the state in which the 'entities' are found.
 
